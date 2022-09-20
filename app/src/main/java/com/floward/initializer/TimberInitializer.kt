@@ -3,6 +3,7 @@ package com.floward.initializer
 import android.content.Context
 import androidx.startup.Initializer
 import com.floward.BuildConfig
+import timber.log.Timber
 
 class TimberInitializer : Initializer<Unit> {
 
