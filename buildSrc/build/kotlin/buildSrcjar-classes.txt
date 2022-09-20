@@ -1,0 +1,1 @@
+/Users/mohamed.ebrahim/Desktop/Apps/Floward/buildSrc/build/classes/kotlin/main/com/floward/Configuration.class
