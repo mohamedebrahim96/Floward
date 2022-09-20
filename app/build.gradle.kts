@@ -75,6 +75,9 @@ android {
 
 dependencies {
 
+    // modules
+    implementation(project(":core-data"))
+
     // androidx
     implementation(libs.material)
     implementation(libs.androidx.fragment)

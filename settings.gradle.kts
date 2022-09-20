@@ -17,3 +17,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Floward"
 include(":app")
+include(":core-model")
+include(":core-data")
